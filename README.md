@@ -6,3 +6,7 @@ Master React JS with 10 Hands-On Projects Udemy Course
 ## Project 2 - Calculator
 
 ## Project 3 - Form Validator
+
+## Project 4 - React Authentication
+
+## Project 5 - Navigation Bar
