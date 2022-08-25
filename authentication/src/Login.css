@@ -1,0 +1,10 @@
+input {
+    margin-top: 10px !important;
+}
+
+.col-md-4 {
+    margin-top: 100px !important;
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+    padding: 20px !important;
+    border-radius: 5px;
+}
