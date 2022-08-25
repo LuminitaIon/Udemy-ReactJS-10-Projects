@@ -10,3 +10,5 @@ Master React JS with 10 Hands-On Projects Udemy Course
 ## Project 4 - React Authentication
 
 ## Project 5 - Navigation Bar
+
+## Project 6 - TODO List
