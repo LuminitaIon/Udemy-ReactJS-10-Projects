@@ -12,3 +12,5 @@ Master React JS with 10 Hands-On Projects Udemy Course
 ## Project 5 - Navigation Bar
 
 ## Project 6 - TODO List
+
+## Project 7 - Old Version of Facebook Login Page
