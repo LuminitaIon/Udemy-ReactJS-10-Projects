@@ -14,3 +14,6 @@ Master React JS with 10 Hands-On Projects Udemy Course
 ## Project 6 - TODO List
 
 ## Project 7 - Old Version of Facebook Login Page
+
+## Project 8 - Covid Status
+Fetching data from a public Api
