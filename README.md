@@ -17,3 +17,8 @@ Master React JS with 10 Hands-On Projects Udemy Course
 
 ## Project 8 - Covid Status
 Fetching data from a public Api
+https://api.covid19api.com/summary
+
+## Project 9 - Meals App
+Fetching data from a public Api
+https://www.themealdb.com/api/json/v1/1/filter.php?c=Seafood
